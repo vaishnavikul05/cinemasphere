@@ -1,9 +1,13 @@
+import Header from "./header";
 
 function Browse() {
     return ( 
-        <div className="border-purple-200 bg-orange-800">
-           <h1 className='text-lg  m-28'>i am div</h1>
-          </div>
+       <div>
+        <Header />
+        <div>
+            <img className="w-full" alt="main-page" src="https://d3ghupt9z9s6o0.cloudfront.net/app/uploads/2017/04/13100509/Netflix-Background.jpg"></img>
+        </div>
+       </div>
      );
 }
 
