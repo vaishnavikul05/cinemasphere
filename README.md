@@ -1,5 +1,5 @@
 # React + Vite
-
+This is project that is clone of netflix
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
